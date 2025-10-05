@@ -1,0 +1,28 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Секреты и конфиги
+.env
+*.env
+
+# Система контроля версий
+.git/
+!.dockerignore
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.bak
+
+# IDE и редакторы
+.vscode/
+.idea/
+.vs/
+
