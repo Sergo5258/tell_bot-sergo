@@ -1,0 +1,21 @@
+# Секреты
+.env
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки IDE
+.idea/
+.vscode/
+
+# Данные Docker
+docker-compose.yml
+**/.git
+**/.gitignore
+**/.dockerignore
+Dockerfile
